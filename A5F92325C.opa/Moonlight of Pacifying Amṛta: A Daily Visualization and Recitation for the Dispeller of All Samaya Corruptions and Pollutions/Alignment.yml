@@ -1,0 +1,19 @@
+segment_sources:
+  P950FCCB8:
+    type: origin_type
+    relation: translation
+    language: en
+  P7E5664CE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4ff64aa2f39d4dd68a5a7ef0e6635933:
+    P950FCCB8: 2436b66996724899ae57b4ff88dd5362
+    P7E5664CE: 17f230aee8e4433d81f263d2dd6c0938
+  f4910dd9c3ec42089d26c35616757564:
+    P950FCCB8: dbd0359a49f4479da71abe937eac3e59
+    P7E5664CE: e3888d3116e54bf0b49b42746c90f617
+  7a87b2dfeb10490298a7786632469b63:
+    P950FCCB8: d3973d72e0cb4d2ebf4ad42ca415803d
+    P7E5664CE: 49ad8db0f1134e598bff9da89804e11e
